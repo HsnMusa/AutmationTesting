@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/async-http-client-2.12.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/auto-common-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/auto-service-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/auto-service-annotations-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/byte-buddy-1.12.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/checker-qual-3.12.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/error_prone_annotations-2.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/failsafe-3.2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/failureaccess-1.0.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/guava-31.1-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/j2objc-annotations-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jakarta.activation-1.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jcommander-1.82.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jsr305-3.0.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jtoml-2.0.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-buffer-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-codec-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-codec-http-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-codec-socks-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-common-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-handler-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-handler-proxy-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-reactive-streams-2.0.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-resolver-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-transport-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-transport-classes-epoll-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-transport-classes-kqueue-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-transport-native-unix-common-4.1.78.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-api-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-context-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-exporter-logging-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-common-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-logs-1.15.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-metrics-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-sdk-trace-1.15.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/opentelemetry-semconv-1.15.0-alpha.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/reactive-streams-1.0.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-api-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chrome-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chromium-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v101-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v102-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v103-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v85-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-edge-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-firefox-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-http-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-ie-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-java-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-json-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-opera-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-remote-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-safari-driver-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-support-4.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.36.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/selenium-api-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chrome-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-chromium-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v101-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v102-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v103-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-devtools-v85-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-edge-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-firefox-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-http-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-ie-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-json-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-opera-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-remote-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-safari-driver-4.3.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/selenium-support-4.3.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-edge-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-ie-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-opera-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-remote-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:3.141.59" level="project" />
+    <orderEntry type="library" name="Maven: net.bytebuddy:byte-buddy:1.8.15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-exec:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:25.0-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-compat-qual:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.14.0" level="project" />
+  </component>
+</module>
